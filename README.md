@@ -57,10 +57,10 @@ BookingController.
 1) посмотреть детали в своем профиле;
 2) сделать возврат билетов;
 Использованные технологии:
-● Backend: Java, Spring Boot, Maven, Spring Data JPA, Spring Security, Hibernate
-● Frontend: React, Node.js, npm
-● База данных: H2 (In-Memory)
-● Контейнеризация: Docker, Docker Compose
+ Backend: Java, Spring Boot, Maven, Spring Data JPA, Spring Security, Hibernate
+ Frontend: React, Node.js, npm
+ База данных: H2 (In-Memory)
+ Контейнеризация: Docker, Docker Compose
 
 ## Сложности
 Было трудно настроить взаимодействие между backend и frontend. Выходила ошибка
