@@ -59,8 +59,11 @@ BookingController.
 
 ## Использованные технологии:
 Backend: Java, Spring Boot, Maven, Spring Data JPA, Spring Security, Hibernate
+
 Frontend: React, Node.js, npm
+
 База данных: H2 (In-Memory)
+
 Контейнеризация: Docker, Docker Compose
 
 ## Сложности
